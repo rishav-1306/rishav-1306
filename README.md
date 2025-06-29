@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @rishav-1306
-- 👀 I’m interested in knowing about you
-- 🌱 I’m currently learning about you
-- 💞️ I’m looking to collaborate with you
-- 📫 How to reach me ?? @rishav_1306 on instagram
-- 😄 Pronouns: world is full of nice people isn't it?
-- ⚡ Fun fact: you are beautiful
+- 💻 B.Tech CSE Student at ITER, SOA University
+- 🚀 Exploring Data Science & DSA | Java & MERN Stack
+- 💻 Languages: Java, Python
+- 🌐 Web: HTML, CSS, JavaScript, React, Node.js, MongoDB
+- 📚 Currently learning: DSA, Express.js, Git & GitHub
 
 <!---
 rishav-1306/rishav-1306 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
