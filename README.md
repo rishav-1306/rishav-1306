@@ -3,7 +3,7 @@
 - 🚀 Exploring Data Science & DSA | Java & MERN Stack
 - 💻 Languages: Java, Python
 - 🌐 Web: HTML, CSS, JavaScript, React, Node.js, MongoDB
-- 📚 Currently learning: DSA, Express.js, Git & GitHub
+- 📚 Currently learning: DSA, Express.js
 
 <!---
 rishav-1306/rishav-1306 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
