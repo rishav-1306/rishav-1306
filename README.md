@@ -1,4 +1,3 @@
-
 ![mario](https://github.com/user-attachments/assets/2726f9cb-87ec-429e-aafb-89b3e3fb6c16)
 
 <h1 align="center">Hi 👋, I'm Rishav Singh</h1>
