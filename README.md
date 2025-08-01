@@ -1,4 +1,5 @@
-![mario](https://github.com/user-attachments/assets/ddb3436b-4122-4642-8ff6-64d409105c6c)
+
+![mario](https://github.com/user-attachments/assets/2726f9cb-87ec-429e-aafb-89b3e3fb6c16)
 
 <h1 align="center">Hi 👋, I'm Rishav Singh</h1>
 <h3 align="center">Passionate about Web Development || DSA || Data Science</h3>
