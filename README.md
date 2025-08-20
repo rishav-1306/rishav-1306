@@ -1,7 +1,7 @@
 ![mario](https://github.com/user-attachments/assets/2726f9cb-87ec-429e-aafb-89b3e3fb6c16)
 
 <h1 align="center">Hi 👋, I'm Rishav Singh</h1>
-<h3 align="center">Passionate about Web Development || DSA || Data Science ||AI/ML</h3>
+<h3 align="center">Passionate about :- Web Development || DSA || Data Science ||AI/ML</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishav-1306&label=Profile%20views&color=0e75b6&style=flat" alt="rishav-1306" /> </p>
 
