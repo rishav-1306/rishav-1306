@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="C:\Users\lenovo\Downloads\github_rm.png" alt="banner" />
+  <img src="[C:\Users\lenovo\Downloads\github_rm.png](https://drive.google.com/file/d/1jP7Apm0R01e51Ot1h86EmxSpsQjnObyE/view?usp=sharing)" alt="banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Rishav Singh</h1>
