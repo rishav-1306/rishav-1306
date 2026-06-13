@@ -445,42 +445,6 @@ Open To:
 
 ---
 
-# Snake Contribution Setup
-
-Create this file:
-
-`.github/workflows/snake.yml`
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: rishav-1306
-          outputs: |
-            github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: main
-          build_dir: .
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
----
-
 <p align="center">
   <i>"Engineering scalable AI systems and modern software products with performance, precision, and innovation."</i>
 </p>
