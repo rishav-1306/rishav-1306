@@ -1,4 +1,4 @@
-<!-- Banner -->
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/e51d45d1-e320-4c10-9177-c78a51479c97" width="2752" height="1536" alt="github_rm">
 </p>
@@ -16,7 +16,11 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/rishav-singh13">
+  <a href="https://rishav1306.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/rishav-singh13">
     <img src="https://img.shields.io/badge/LinkedIn-1E1B4B?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
@@ -26,10 +30,6 @@
 
   <a href="https://github.com/rishav-1306">
     <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-
-  <a href="https://portfolio-rishav.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
 
@@ -332,21 +332,23 @@ Worked on scalable web applications, browser extensions, and real-time communica
 # Coding Profiles
 
 <p align="center">
-  <a href="https://leetcode.com">
-    <img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-111827?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
+
+  <a href="https://leetcode.com/u/rishav_1306/">
+    <img src="https://img.shields.io/badge/LeetCode-rishav__1306-111827?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
+  </a>
+
+  <a href="https://www.hackerrank.com/profile/rishav1306singh">
+    <img src="https://img.shields.io/badge/HackerRank-rishav1306singh-1E1B4B?style=for-the-badge&logo=hackerrank&logoColor=2EC866"/>
   </a>
 
   <a href="https://www.geeksforgeeks.org">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-Coding%20Practice-1E1B4B?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46"/>
-  </a>
-
-  <a href="https://www.hackerrank.com">
-    <img src="https://img.shields.io/badge/HackerRank-Competitive%20Coding-312E81?style=for-the-badge&logo=hackerrank&logoColor=2EC866"/>
+    <img src="https://img.shields.io/badge/GeeksforGeeks-Coding%20Practice-312E81?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46"/>
   </a>
 
   <a href="https://www.codechef.com">
-    <img src="https://img.shields.io/badge/CodeChef-DSA%20Practice-4C1D95?style=for-the-badge&logo=codechef&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CodeChef-Competitive%20Programming-4C1D95?style=for-the-badge&logo=codechef&logoColor=white"/>
   </a>
+
 </p>
 
 ---
@@ -383,7 +385,9 @@ Worked on scalable web applications, browser extensions, and real-time communica
 
 # Contribution Snake
 
-<p align="center"> <img src="https://raw.githubusercontent.com/rishav-1306/rishav-1306/main/github-contribution-grid-snake-dark.svg" alt="snake animation"/> </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rishav-1306/rishav-1306/main/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+</p>
 
 ---
 
@@ -420,11 +424,12 @@ Open To:
 # Connect
 
 <p align="center">
+
   <a href="mailto:rishav1306singh@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-rishav1306singh%40gmail.com-111827?style=for-the-badge&logo=gmail&logoColor=A855F7"/>
   </a>
 
-  <a href="https://linkedin.com/in/rishav-singh13">
+  <a href="https://www.linkedin.com/in/rishav-singh13">
     <img src="https://img.shields.io/badge/LinkedIn-Rishav%20Singh-312E81?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
@@ -432,10 +437,47 @@ Open To:
     <img src="https://img.shields.io/badge/GitHub-rishav--1306-1E1B4B?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 
-  <a href="https://portfolio-rishav.vercel.app">
+  <a href="https://rishav1306.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-4C1D95?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
+
 </p>
+
+---
+
+# Snake Contribution Setup
+
+Create this file:
+
+`.github/workflows/snake.yml`
+
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: rishav-1306
+          outputs: |
+            github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: main
+          build_dir: .
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
 
 ---
 
@@ -444,5 +486,3 @@ Open To:
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0F172A,25:312E81,50:5B21B6,75:4C1D95,100:0F0F1A"/>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
