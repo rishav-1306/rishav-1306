@@ -1,7 +1,6 @@
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/e9665a6d-35c3-4fe4-8a01-621af718415f" />
-">
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F0F1A,20:312E81,40:5B21B6,60:6D28D9,80:4C1D95,100:0F172A&text=Rishav%20Singh&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20Full%20Stack%20Developer&descAlignY=58&animation=fadeIn"/>
