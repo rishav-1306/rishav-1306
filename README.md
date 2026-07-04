@@ -306,7 +306,7 @@ Worked on scalable web applications, browser extensions, and real-time communica
 ## AWS
 
 <p align="center">
-  <img src="[https://img.shields.io/badge/AWS-Cloud%20Foundations-111827?style=for-the-badge&logo=amazonaws&logoColor=FF9900](https://skillbuilder.aws/learn/16ASDUHF86/fundamentals-of-machine-learning-and-artificial-intelligence/M7JZCTA94N?transcriptid=0bc4beea-78c8-428a-b7f0-40efbb68876f&responseid=R_4v7Fk6xBiMtfkC9)"/>
+  <img src="https://img.shields.io/badge/AWS-Cloud%20Foundations-111827?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
 </p>
 
 ## Oracle
