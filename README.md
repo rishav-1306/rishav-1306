@@ -158,7 +158,7 @@ I actively work across MERN Stack, Django, AI/ML pipelines, cloud deployment sys
 # Featured Projects
 
 <details>
-<summary><b>Cyber Sentinel — AI Drone Surveillance Platform</b></summary>
+<summary><b>Cyber Sentinel — A CCTV Surveillance Platform</b></summary>
 
 ### AI-powered real-time CCTV surveillance dashboard with Live Alerts and intelligent threat analysis.
 
@@ -171,7 +171,7 @@ I actively work across MERN Stack, Django, AI/ML pipelines, cloud deployment sys
 | Impact | Intelligent surveillance & threat monitoring |
 | Repository | [View Project](https://github.com/rishav-1306) |
 
-Cyber Sentinel is an advanced monitoring platform designed for real-time CCTV operations with live Intrusions, surveillance dashboards, and threat detection systems for command-center level analytics.
+Cyber Sentinel is an advanced CCTV monitoring platform designed for real-time CCTV operations with live Intrusions, surveillance dashboards, and threat detection systems for command-center level analytics.
 
 </details>
 
