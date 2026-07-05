@@ -384,10 +384,7 @@ Worked on scalable web applications, browser extensions, and real-time communica
 ---
 
 # Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rishav-1306/rishav-1306/main/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
-</p>
+<img alt="Contribution Snake" src="https://raw.githubusercontent.com/rishav-1306/rishav-1306/output/github-contribution-grid-snake-dark.svg" width="100%" style="visibility: visible; max-width: 100%;">
 
 ---
 
