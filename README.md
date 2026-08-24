@@ -17,7 +17,13 @@
 
 <!-- ======================= INTRO ======================= -->
 
-<h1 align="center">Hey there, I'm RISHAV SINGH 👋</h1>
+<p align="center">
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,25:7F1D1D,50:991B1B,75:DC2626,100:0F0F1A&height=180&section=header&text=Hey%20there,%20I'm%20RISHAV%20SINGH%20%F0%9F%91%8B&fontSize=36&fontColor=ffffff&fontAlignY=42&animation=twinkling"
+    alt="Hey there, I'm RISHAV SINGH"
+  />
+</p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
