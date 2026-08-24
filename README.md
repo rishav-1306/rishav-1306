@@ -1,164 +1,149 @@
+<!--
+  This is your PROFILE README. It goes in a repo named exactly after your
+  username (e.g. github.com/OCTOCAT/OCTOCAT) so GitHub shows it on your profile.
+  Replace the ALL-CAPS placeholders. Widths 370/490 keep the portrait and info
+  card the same height -- if you change the info card's H, re-match these.
+-->
+<div align="center">
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/e9665a6d-35c3-4fe4-8a01-621af718415f" />
-</p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F0F1A,20:312E81,40:5B21B6,60:6D28D9,80:4C1D95,100:0F172A&text=Rishav%20Singh&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20Full%20Stack%20Developer&descAlignY=58&animation=fadeIn"/>
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&pause=1000&color=A855F7&center=true&vCenter=true&width=950&lines=Software+Engineering+%26+AI+Systems;AI+Full+Stack+Developer;MERN+Stack+%7C+Django+%7C+AI%2FML+%7C+Cloud;Building+Scalable+Modern+Applications;Open+Source+Contributor+%26+Problem+Solver" alt="Typing SVG" />
-</h1>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/B.Tech-CSE-6D28D9?style=for-the-badge&logo=academia&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ITER-SOA%20University-4C1D95?style=for-the-badge&logo=google-scholar&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bhubaneswar%2C%20India-111827?style=for-the-badge&logo=googlemaps&logoColor=A855F7"/>
-</p>
-
-<p align="center">
-  <a href="https://rishav1306.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-
-  <a href="https://www.linkedin.com/in/rishav-singh13">
-    <img src="https://img.shields.io/badge/LinkedIn-1E1B4B?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="mailto:rishav1306singh@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-312E81?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-
-  <a href="https://github.com/rishav-1306">
-    <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rishav-1306&style=for-the-badge&color=7C3AED"/>
-  <img src="https://img.shields.io/github/followers/rishav-1306?style=for-the-badge&color=4C1D95&labelColor=111827"/>
-  <img src="https://img.shields.io/github/stars/rishav-1306?style=for-the-badge&color=6D28D9&labelColor=111827"/>
-</p>
-
----
-
-# About
-
-```yaml
-Name: Rishav Singh
-Role: Software Engineer & AI Full Stack Developer
-Education: B.Tech Computer Science Engineering
-University: ITER, Siksha 'O' Anusandhan University
-Focus:
-  - Full Stack Engineering
-  - Artificial Intelligence
-  - Computer Vision
-  - Backend Systems
-  - Cloud Applications
-  - Real-Time Architectures
-```
-
-I am a software engineering student passionate about building scalable digital products, intelligent AI systems, and enterprise-grade full stack applications.
-
-My work focuses on combining software engineering principles with AI-powered systems to build performant, reliable, and production-ready solutions. I enjoy designing real-time architectures, backend infrastructures, modern frontend systems, and computer vision applications that solve practical problems.
-
-I actively work across MERN Stack, Django, AI/ML pipelines, cloud deployment systems, and real-time communication technologies while maintaining a strong focus on clean architecture, scalability, security, and user-centric engineering.
-
-### Open To
-- Software Engineering Internships
-- AI/ML Engineering Roles
-- Full Stack Development Opportunities
-- Open Source Collaboration
-- Backend Engineering Roles
-- AI Product Engineering
-
----
-
-# Tech Stack
-
-## Languages
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,html,css" />
-</p>
-
-## Frontend
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,redux,figma" />
-</p>
-
-## Backend & Databases
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,mongodb,mysql,postgresql,supabase" />
-</p>
-
-## AI / ML & Computer Vision
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
-</p>
-
-## Cloud, DevOps & Tooling
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,vercel,netlify,postman,linux,vscode" />
-</p>
-
----
-
-# AI / ML Expertise
-
-<table align="center">
+<table>
 <tr>
-<th>Domain</th>
-<th>Proficiency</th>
-<th>Details</th>
-</tr>
-
-<tr>
-<td>Computer Vision</td>
-<td>Advanced</td>
-<td>AI-powered image analysis, object detection, industrial inspection systems</td>
-</tr>
-
-<tr>
-<td>Deep Learning</td>
-<td>Advanced</td>
-<td>CNN architectures, model optimization, inference pipelines</td>
-</tr>
-
-<tr>
-<td>AI Engineering</td>
-<td>Advanced</td>
-<td>Production-ready AI integration for full stack systems</td>
-</tr>
-
-<tr>
-<td>Machine Learning</td>
-<td>Advanced</td>
-<td>Data preprocessing, model evaluation, training workflows</td>
-</tr>
-
-<tr>
-<td>Backend AI Systems</td>
-<td>Advanced</td>
-<td>FastAPI integrations, scalable inference APIs, real-time processing</td>
-</tr>
-
-<tr>
-<td>Data Engineering</td>
-<td>Intermediate</td>
-<td>Industrial datasets, annotation pipelines, visualization systems</td>
+<td valign="top"><img src="./avi-ascii.svg" width="370" alt="ASCII portrait" /></td>
+<td valign="top"><img src="./info-card.svg" width="490" alt="Experience, stack, highlights" /></td>
 </tr>
 </table>
 
----
+</div>
 
-# Featured Projects
+<!-- ======================= INTRO ======================= -->
+
+<h1 align="center">Hey there, I'm RISHAV SINGH 👋</h1>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=100&lines=Software+Engineering+%26+AI+Systems;AI+Full+Stack+Developer+%7C+Computer+Vision;Building+scalable%2C+high-performance+intelligent+systems;Turning+ideas+into+production-ready+products"
+      alt="Typing animation"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rishav-1306&label=PROFILE%20VIEWS&color=7c3aed&style=for-the-badge" alt="Profile Views">
+  <a href="https://github.com/rishav-1306?tab=followers">
+    <img src="https://img.shields.io/github/followers/rishav-1306?label=FOLLOWERS&style=for-the-badge&color=6d28d9&labelColor=0d1117" alt="GitHub Followers">
+  </a>
+  <a href="https://github.com/rishav-1306?tab=repositories">
+    <img src="https://img.shields.io/github/stars/rishav-1306?affiliations=OWNER&label=STARS&style=for-the-badge&color=4c1d95&labelColor=0d1117" alt="GitHub Stars">
+  </a>
+</p>
+
+<br>
+
+<!-- ======================= ABOUT ME ======================= -->
+
+<h2 align="center">⚡ About Me</h2>
+
+<table align="center">
+<tr>
+<td width="65%" valign="top">
+
+### Hey! I'm Rishav 👨‍💻
+
+I am a **Computer Science Engineering student** at **ITER, SOA University**, passionate about building scalable digital products, intelligent AI systems, and enterprise-grade full stack applications.
+
+- 🚀 Building scalable **AI Systems, Computer Vision & Full Stack Applications**
+- 🧠 Developing with **PyTorch, TensorFlow, OpenCV & Deep Learning Pipelines**
+- ⚡ Engineering full stack solutions with **React, Next.js, Node.js, FastAPI & Django**
+- ☁️ Designing **Real-Time Architectures, Dockerized Deployments & AWS Cloud**
+- 🏆 **2nd Prize Winner @ OITS 2025** for *Cyber Sentinel CCTV AI Platform*
+- 🛠️ Industrial AI Experience in steel defect detection @ **Tata Steel**
+- 🧠 Practicing **DSA, System Design & Problem Solving**
+- 🎯 Open to **Software Engineering & AI/ML Roles / Internships**
+
+<br>
+
+> **"Engineering intelligent, scalable systems with precision and purpose."**
+
+</td>
+
+<td width="35%" align="center" valign="middle">
+
+<img
+  src="https://skillicons.dev/icons?i=pytorch,react,nodejs,docker,aws,fastapi&perline=3"
+  width="180"
+  alt="Core Technologies"
+/>
+
+<br><br>
+
+<img
+  src="https://img.shields.io/badge/Focus-AI_%26_CV-6D28D9?style=for-the-badge&logo=python&logoColor=white"
+  alt="Focus"
+/>
+
+<br>
+
+<img
+  src="https://img.shields.io/badge/Stack-Full_Stack-4C1D95?style=for-the-badge&logo=react&logoColor=white"
+  alt="Stack"
+/>
+
+<br>
+
+<img
+  src="https://img.shields.io/badge/Mindset-Scale_%26_Build-312E81?style=for-the-badge&logo=docker&logoColor=white"
+  alt="Mindset"
+/>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<!-- ======================= TECH STACK ======================= -->
+
+<h2 align="center">🧰 Tech Stack</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css&perline=6" alt="Programming Languages">
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,redux,nodejs,express,django,fastapi&perline=9" alt="Frontend and Backend">
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&perline=3" alt="AI / ML and Computer Vision">
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github,postman,mongodb,postgres,mysql,supabase&perline=10" alt="Cloud, DevOps and Databases">
+</p>
+
+<br>
+
+<!-- ======================= CURRENTLY ======================= -->
+
+<h2 align="center">🌱 Currently Exploring</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🤖_AI-Computer_Vision-6D28D9?style=for-the-badge&labelColor=0d1117" alt="Computer Vision">
+  <img src="https://img.shields.io/badge/⚡_Backend-Distributed_Systems-6D28D9?style=for-the-badge&labelColor=0d1117" alt="Distributed Systems">
+  <img src="https://img.shields.io/badge/🐳_Containers-Docker-6D28D9?style=for-the-badge&labelColor=0d1117" alt="Docker">
+  <img src="https://img.shields.io/badge/☁️_Cloud-AWS-6D28D9?style=for-the-badge&labelColor=0d1117" alt="AWS">
+  <img src="https://img.shields.io/badge/🚀_Real_Time-WebSockets-6D28D9?style=for-the-badge&labelColor=0d1117" alt="Real Time">
+</p>
+
+<br>
+
+<!-- ======================= FEATURED PROJECTS ======================= -->
+
+<h2 align="center">🚀 Featured Projects</h2>
 
 <details>
-<summary><b>Cyber Sentinel — A CCTV Surveillance Platform</b></summary>
+<summary><b>Cyber Sentinel — A CCTV Surveillance Platform (🏆 OITS 2nd Prize 2025)</b></summary>
 
 ### AI-powered real-time CCTV surveillance dashboard with Live Alerts and intelligent threat analysis.
 
@@ -229,162 +214,121 @@ Built with scalable WebSocket infrastructure and modern frontend systems to deli
 
 </details>
 
----
-# Achievements
+<br>
 
-<table align="center">
-<tr>
-<th>Recognition</th>
-<th>Details</th>
-</tr>
+<!-- ======================= CODING PROFILES ======================= -->
 
-<tr>
-<td>OITS 2nd Prize 2025</td>
-<td>Awarded for Cyber Sentinel A CCTV Surveillance Platform</td>
-</tr>
-
-<tr>
-<td>AI Engineering</td>
-<td>Developed enterprise-focused computer vision systems</td>
-</tr>
-
-<tr>
-<td>Real-Time Systems</td>
-<td>Built scalable collaboration and communication platforms</td>
-</tr>
-
-<tr>
-<td>Industrial AI</td>
-<td>Worked on AI-based steel defect analysis systems at Tata Steel</td>
-</tr>
-
-<tr>
-<td>Full Stack Development</td>
-<td>Built scalable MERN applications and browser extensions</td>
-</tr>
-</table>
-
----
-
-# Coding Profiles
+<h2 align="center">💻 Coding Profiles</h2>
 
 <p align="center">
-
   <a href="https://leetcode.com/u/rishav_1306/">
     <img src="https://img.shields.io/badge/LeetCode-rishav__1306-111827?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
   </a>
-
   <a href="https://www.hackerrank.com/profile/rishav1306singh">
     <img src="https://img.shields.io/badge/HackerRank-rishav1306singh-1E1B4B?style=for-the-badge&logo=hackerrank&logoColor=2EC866"/>
   </a>
-
   <a href="https://www.geeksforgeeks.org">
     <img src="https://img.shields.io/badge/GeeksforGeeks-Coding%20Practice-312E81?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46"/>
   </a>
-
   <a href="https://www.codechef.com">
     <img src="https://img.shields.io/badge/CodeChef-Competitive%20Programming-4C1D95?style=for-the-badge&logo=codechef&logoColor=white"/>
   </a>
-
 </p>
 
----
+<br>
 
-# GitHub Analytics
+<!-- ======================= GITHUB ANALYTICS ======================= -->
+
+<h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rishav-1306&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF"/>
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishav-1306&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF"/>
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=rishav-1306&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF"
+    alt="Rishav Singh GitHub Stats"
+  />
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishav-1306&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF"
+    alt="Rishav Singh Top Languages"
+  />
 </p>
 
+<br>
+
+<!-- ======================= GITHUB STREAK ======================= -->
+
+<h2 align="center">🔥 GitHub Streak</h2>
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=rishav-1306&theme=midnight-purple&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=FFFFFF"/>
+  <img
+    src="https://streak-stats.demolab.com/?user=rishav-1306&theme=midnight-purple&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=FFFFFF"
+    alt="Rishav Singh GitHub Streak"
+  />
 </p>
 
----
+<br>
 
-# GitHub Trophies
+<!-- ======================= CONTRIBUTION ACTIVITY ======================= -->
+
+<h2 align="center">📈 Contribution Activity</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rishav-1306&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8"/>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=rishav-1306&bg_color=0D1117&color=A855F7&line=7C3AED&point=FFFFFF&hide_border=true"
+    alt="Rishav Singh Contribution Graph"
+  />
 </p>
 
----
+<br>
 
-# Contribution Activity
+<!-- ======================= CONTRIBUTION SNAKE ======================= -->
+
+<h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rishav-1306&bg_color=0D1117&color=A855F7&line=7C3AED&point=FFFFFF&hide_border=true"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rishav-1306/rishav-1306/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rishav-1306/rishav-1306/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rishav-1306/rishav-1306/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
----
+<br>
 
-# Contribution Snake
+<!-- ======================= CONNECT ======================= -->
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rishav-1306/rishav-1306/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rishav-1306/rishav-1306/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rishav-1306/rishav-1306/output/github-contribution-grid-snake.svg">
-</picture>
----
-
-# Current Focus
-
-```yaml
-Learning:
-  - Distributed Systems
-  - Advanced AI Architectures
-  - Cloud Native Engineering
-  - Scalable Backend Systems
-
-Building:
-  - AI-Powered Industrial Systems
-  - Real-Time Collaboration Platforms
-  - Enterprise Full Stack Applications
-  - Intelligent Automation Systems
-
-Exploring:
-  - Computer Vision Pipelines
-  - Deep Learning Optimization
-  - High Performance APIs
-  - System Design
-
-Open To:
-  - Software Engineering Internships
-  - AI/ML Engineering Roles
-  - Open Source Contributions
-  - Product Engineering Teams
-```
-
----
-
-# Connect
+<h2 align="center">🤝 Let's Connect</h2>
 
 <p align="center">
-
-  <a href="mailto:rishav1306singh@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-rishav1306singh%40gmail.com-111827?style=for-the-badge&logo=gmail&logoColor=A855F7"/>
-  </a>
-
   <a href="https://www.linkedin.com/in/rishav-singh13">
-    <img src="https://img.shields.io/badge/LinkedIn-Rishav%20Singh-312E81?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Rishav%20Singh-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn">
   </a>
-
-  <a href="https://github.com/rishav-1306">
-    <img src="https://img.shields.io/badge/GitHub-rishav--1306-1E1B4B?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-
   <a href="https://rishav1306.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-4C1D95?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-rishav1306.vercel.app-4C1D95?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117" alt="Portfolio">
   </a>
-
+  <a href="mailto:rishav1306singh@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-rishav1306singh%40gmail.com-312E81?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Gmail">
+  </a>
+  <a href="https://github.com/rishav-1306">
+    <img src="https://img.shields.io/badge/GitHub-rishav--1306-0F172A?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub">
+  </a>
 </p>
 
----
+<br>
 
 <p align="center">
   <i>"Engineering scalable AI systems and modern software products with performance, precision, and innovation."</i>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0F172A,25:312E81,50:5B21B6,75:4C1D95,100:0F0F1A"/>
+<br>
+
+<!-- ======================= FOOTER ======================= -->
+
+<p align="center">
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,25:312E81,50:5B21B6,75:4C1D95,100:0F0F1A&height=140&section=footer&text=Thanks%20for%20visiting!%20%F0%9F%91%8B&fontSize=24&fontColor=ffffff&fontAlignY=65&animation=twinkling"
+    alt="Thanks for visiting"
+  />
+</p>
