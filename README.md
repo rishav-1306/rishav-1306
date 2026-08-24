@@ -22,19 +22,19 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=100&lines=Software+Engineering+%26+AI+Systems;AI+Full+Stack+Developer+%7C+Computer+Vision;Building+scalable%2C+high-performance+intelligent+systems;Turning+ideas+into+production-ready+products"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=EF4444&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=145&lines=Software+Engineering+%26+AI+Systems;AI+Full+Stack+Developer+%7C+Computer+Vision;Building+scalable%2C+high-performance+intelligent+systems;Turning+ideas+into+production-ready+products"
       alt="Typing animation"
     />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rishav-1306&label=PROFILE%20VIEWS&color=7c3aed&style=for-the-badge" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=rishav-1306&label=PROFILE%20VIEWS&color=ef4444&style=for-the-badge" alt="Profile Views">
   <a href="https://github.com/rishav-1306?tab=followers">
-    <img src="https://img.shields.io/github/followers/rishav-1306?label=FOLLOWERS&style=for-the-badge&color=6d28d9&labelColor=0d1117" alt="GitHub Followers">
+    <img src="https://img.shields.io/github/followers/rishav-1306?label=FOLLOWERS&style=for-the-badge&color=dc2626&labelColor=0d1117" alt="GitHub Followers">
   </a>
   <a href="https://github.com/rishav-1306?tab=repositories">
-    <img src="https://img.shields.io/github/stars/rishav-1306?affiliations=OWNER&label=STARS&style=for-the-badge&color=4c1d95&labelColor=0d1117" alt="GitHub Stars">
+    <img src="https://img.shields.io/github/stars/rishav-1306?affiliations=OWNER&label=STARS&style=for-the-badge&color=b91c1c&labelColor=0d1117" alt="GitHub Stars">
   </a>
 </p>
 
@@ -78,21 +78,21 @@ I am a **Computer Science Engineering student** at **ITER, SOA University**, pas
 <br><br>
 
 <img
-  src="https://img.shields.io/badge/Focus-AI_%26_CV-6D28D9?style=for-the-badge&logo=python&logoColor=white"
+  src="https://img.shields.io/badge/Focus-AI_%26_CV-DC2626?style=for-the-badge&logo=python&logoColor=white"
   alt="Focus"
 />
 
 <br>
 
 <img
-  src="https://img.shields.io/badge/Stack-Full_Stack-4C1D95?style=for-the-badge&logo=react&logoColor=white"
+  src="https://img.shields.io/badge/Stack-Full_Stack-B91C1C?style=for-the-badge&logo=react&logoColor=white"
   alt="Stack"
 />
 
 <br>
 
 <img
-  src="https://img.shields.io/badge/Mindset-Scale_%26_Build-312E81?style=for-the-badge&logo=docker&logoColor=white"
+  src="https://img.shields.io/badge/Mindset-Scale_%26_Build-991B1B?style=for-the-badge&logo=docker&logoColor=white"
   alt="Mindset"
 />
 
@@ -129,11 +129,11 @@ I am a **Computer Science Engineering student** at **ITER, SOA University**, pas
 <h2 align="center">🌱 Currently Exploring</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🤖_AI-Computer_Vision-6D28D9?style=for-the-badge&labelColor=0d1117" alt="Computer Vision">
-  <img src="https://img.shields.io/badge/⚡_Backend-Distributed_Systems-6D28D9?style=for-the-badge&labelColor=0d1117" alt="Distributed Systems">
-  <img src="https://img.shields.io/badge/🐳_Containers-Docker-6D28D9?style=for-the-badge&labelColor=0d1117" alt="Docker">
-  <img src="https://img.shields.io/badge/☁️_Cloud-AWS-6D28D9?style=for-the-badge&labelColor=0d1117" alt="AWS">
-  <img src="https://img.shields.io/badge/🚀_Real_Time-WebSockets-6D28D9?style=for-the-badge&labelColor=0d1117" alt="Real Time">
+  <img src="https://img.shields.io/badge/🤖_AI-Computer_Vision-DC2626?style=for-the-badge&labelColor=0d1117" alt="Computer Vision">
+  <img src="https://img.shields.io/badge/⚡_Backend-Distributed_Systems-DC2626?style=for-the-badge&labelColor=0d1117" alt="Distributed Systems">
+  <img src="https://img.shields.io/badge/🐳_Containers-Docker-DC2626?style=for-the-badge&labelColor=0d1117" alt="Docker">
+  <img src="https://img.shields.io/badge/☁️_Cloud-AWS-DC2626?style=for-the-badge&labelColor=0d1117" alt="AWS">
+  <img src="https://img.shields.io/badge/🚀_Real_Time-WebSockets-DC2626?style=for-the-badge&labelColor=0d1117" alt="Real Time">
 </p>
 
 <br>
@@ -225,13 +225,13 @@ Built with scalable WebSocket infrastructure and modern frontend systems to deli
     <img src="https://img.shields.io/badge/LeetCode-rishav__1306-111827?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
   </a>
   <a href="https://www.hackerrank.com/profile/rishav1306singh">
-    <img src="https://img.shields.io/badge/HackerRank-rishav1306singh-1E1B4B?style=for-the-badge&logo=hackerrank&logoColor=2EC866"/>
+    <img src="https://img.shields.io/badge/HackerRank-rishav1306singh-7F1D1D?style=for-the-badge&logo=hackerrank&logoColor=2EC866"/>
   </a>
   <a href="https://www.geeksforgeeks.org">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-Coding%20Practice-312E81?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46"/>
+    <img src="https://img.shields.io/badge/GeeksforGeeks-Coding%20Practice-991B1B?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46"/>
   </a>
   <a href="https://www.codechef.com">
-    <img src="https://img.shields.io/badge/CodeChef-Competitive%20Programming-4C1D95?style=for-the-badge&logo=codechef&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CodeChef-Competitive%20Programming-B91C1C?style=for-the-badge&logo=codechef&logoColor=white"/>
   </a>
 </p>
 
@@ -244,12 +244,12 @@ Built with scalable WebSocket infrastructure and modern frontend systems to deli
 <p align="center">
   <img
     height="180"
-    src="https://github-readme-stats.vercel.app/api?username=rishav-1306&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF"
+    src="https://github-readme-stats.vercel.app/api?username=rishav-1306&show_icons=true&hide_border=true&bg_color=0D1117&title_color=EF4444&icon_color=EF4444&text_color=FFFFFF"
     alt="Rishav Singh GitHub Stats"
   />
   <img
     height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishav-1306&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishav-1306&layout=compact&hide_border=true&bg_color=0D1117&title_color=EF4444&text_color=FFFFFF"
     alt="Rishav Singh Top Languages"
   />
 </p>
@@ -262,7 +262,7 @@ Built with scalable WebSocket infrastructure and modern frontend systems to deli
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=rishav-1306&theme=midnight-purple&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=FFFFFF"
+    src="https://streak-stats.demolab.com/?user=rishav-1306&hide_border=true&background=0D1117&ring=EF4444&fire=EF4444&currStreakLabel=EF4444&sideLabels=EF4444&dates=7D8590&currStreakNum=EF4444&sideNums=EF4444"
     alt="Rishav Singh GitHub Streak"
   />
 </p>
@@ -275,7 +275,7 @@ Built with scalable WebSocket infrastructure and modern frontend systems to deli
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=rishav-1306&bg_color=0D1117&color=A855F7&line=7C3AED&point=FFFFFF&hide_border=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=rishav-1306&bg_color=0D1117&color=EF4444&line=DC2626&point=FFFFFF&hide_border=true"
     alt="Rishav Singh Contribution Graph"
   />
 </p>
@@ -302,13 +302,13 @@ Built with scalable WebSocket infrastructure and modern frontend systems to deli
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rishav-singh13">
-    <img src="https://img.shields.io/badge/LinkedIn-Rishav%20Singh-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-Rishav%20Singh-DC2626?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn">
   </a>
   <a href="https://rishav1306.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-rishav1306.vercel.app-4C1D95?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117" alt="Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-rishav1306.vercel.app-B91C1C?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117" alt="Portfolio">
   </a>
   <a href="mailto:rishav1306singh@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-rishav1306singh%40gmail.com-312E81?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Gmail">
+    <img src="https://img.shields.io/badge/Gmail-rishav1306singh%40gmail.com-991B1B?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Gmail">
   </a>
   <a href="https://github.com/rishav-1306">
     <img src="https://img.shields.io/badge/GitHub-rishav--1306-0F172A?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub">
@@ -328,7 +328,7 @@ Built with scalable WebSocket infrastructure and modern frontend systems to deli
 <p align="center">
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,25:312E81,50:5B21B6,75:4C1D95,100:0F0F1A&height=140&section=footer&text=Thanks%20for%20visiting!%20%F0%9F%91%8B&fontSize=24&fontColor=ffffff&fontAlignY=65&animation=twinkling"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,25:7F1D1D,50:991B1B,75:DC2626,100:0F0F1A&height=140&section=footer&text=Thanks%20for%20visiting!%20%F0%9F%91%8B&fontSize=24&fontColor=ffffff&fontAlignY=65&animation=twinkling"
     alt="Thanks for visiting"
   />
 </p>

@@ -1,59 +1,59 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="480" height="376" viewBox="0 0 480 376" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
   <defs>
     <linearGradient id="ibg" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#111722"/>
+      <stop offset="0%" stop-color="#161217"/>
       <stop offset="100%" stop-color="#0d1117"/>
     </linearGradient>
   </defs>
 
   <rect width="480" height="376" rx="12" fill="url(#ibg)"/>
-  <rect x="0.5" y="0.5" width="479" height="375" rx="12" fill="none" stroke="#30363d"/>
-  <line x1="0" y1="30" x2="480" y2="30" stroke="#30363d"/>
+  <rect x="0.5" y="0.5" width="479" height="375" rx="12" fill="none" stroke="#3d262b"/>
+  <line x1="0" y1="30" x2="480" y2="30" stroke="#3d262b"/>
 
   <circle cx="20" cy="15" r="5" fill="#ff5f56"/>
   <circle cx="36" cy="15" r="5" fill="#ffbd2e"/>
   <circle cx="52" cy="15" r="5" fill="#27c93f"/>
 
-  <text x="240" y="19" fill="#7d8590" font-size="12" text-anchor="middle">
+  <text x="240" y="19" fill="#8b949e" font-size="12" text-anchor="middle">
     rishav@github: ~$ neofetch
   </text>
 
   <!-- Header -->
   <g opacity="0" transform="translate(0,5)">
     <text x="20" y="60" font-size="14" font-weight="700">
-      <tspan fill="#3fb950">rishav</tspan>
+      <tspan fill="#ef4444">rishav</tspan>
       <tspan fill="#7d8590">@</tspan>
-      <tspan fill="#22d3ee">github</tspan>
+      <tspan fill="#f87171">github</tspan>
     </text>
-    <line x1="130" y1="56" x2="460" y2="56" stroke="#30363d" stroke-opacity="0.8"/>
+    <line x1="130" y1="56" x2="460" y2="56" stroke="#3d262b" stroke-opacity="0.8"/>
     <animate attributeName="opacity" from="0" to="1" begin="0.15s" dur="0.4s" fill="freeze"/>
     <animateTransform attributeName="transform" type="translate" from="0 5" to="0 0" begin="0.15s" dur="0.4s" fill="freeze"/>
   </g>
 
   <!-- Intro -->
   <g opacity="0" transform="translate(0,5)">
-    <text x="20" y="80.5" fill="#ffa657" font-size="12.5" font-weight="700">Now</text>
+    <text x="20" y="80.5" fill="#f87171" font-size="12.5" font-weight="700">Now</text>
     <text x="112" y="80.5" fill="#c9d1d9" font-size="12.5">Building AI &amp; Full Stack Systems</text>
     <animate attributeName="opacity" from="0" to="1" begin="0.21s" dur="0.4s" fill="freeze"/>
     <animateTransform attributeName="transform" type="translate" from="0 5" to="0 0" begin="0.21s" dur="0.4s" fill="freeze"/>
   </g>
 
   <g opacity="0" transform="translate(0,5)">
-    <text x="20" y="101" fill="#ffa657" font-size="12.5" font-weight="700">Building</text>
+    <text x="20" y="101" fill="#f87171" font-size="12.5" font-weight="700">Building</text>
     <text x="112" y="101" fill="#c9d1d9" font-size="12.5">Real world AI, CV &amp; Web Apps</text>
     <animate attributeName="opacity" from="0" to="1" begin="0.27s" dur="0.4s" fill="freeze"/>
     <animateTransform attributeName="transform" type="translate" from="0 5" to="0 0" begin="0.27s" dur="0.4s" fill="freeze"/>
   </g>
 
   <g opacity="0" transform="translate(0,5)">
-    <text x="20" y="121.5" fill="#ffa657" font-size="12.5" font-weight="700">Mindset</text>
+    <text x="20" y="121.5" fill="#f87171" font-size="12.5" font-weight="700">Mindset</text>
     <text x="112" y="121.5" fill="#c9d1d9" font-size="12.5">Obsessed with clean architecture</text>
     <animate attributeName="opacity" from="0" to="1" begin="0.33s" dur="0.4s" fill="freeze"/>
     <animateTransform attributeName="transform" type="translate" from="0 5" to="0 0" begin="0.33s" dur="0.4s" fill="freeze"/>
   </g>
 
   <g opacity="0" transform="translate(0,5)">
-    <text x="20" y="142" fill="#ffa657" font-size="12.5" font-weight="700">Fuel</text>
+    <text x="20" y="142" fill="#f87171" font-size="12.5" font-weight="700">Fuel</text>
     <text x="112" y="142" fill="#c9d1d9" font-size="12.5">Coffee + Problem Solving</text>
     <animate attributeName="opacity" from="0" to="1" begin="0.39s" dur="0.4s" fill="freeze"/>
     <animateTransform attributeName="transform" type="translate" from="0 5" to="0 0" begin="0.39s" dur="0.4s" fill="freeze"/>
@@ -61,35 +61,35 @@
 
   <!-- Stack -->
   <g opacity="0" transform="translate(0,5)">
-    <text x="20" y="172.8" fill="#58a6ff" font-size="12.5" font-weight="700">— Stack</text>
-    <line x1="72" y1="168.8" x2="460" y2="168.8" stroke="#30363d" stroke-opacity="0.8"/>
+    <text x="20" y="172.8" fill="#ef4444" font-size="12.5" font-weight="700">— Stack</text>
+    <line x1="72" y1="168.8" x2="460" y2="168.8" stroke="#3d262b" stroke-opacity="0.8"/>
     <animate attributeName="opacity" from="0" to="1" begin="0.51s" dur="0.4s" fill="freeze"/>
     <animateTransform attributeName="transform" type="translate" from="0 5" to="0 0" begin="0.51s" dur="0.4s" fill="freeze"/>
   </g>
 
   <g opacity="0" transform="translate(0,5)">
-    <text x="20" y="193.2" fill="#ffa657" font-size="12.5" font-weight="700">AI / ML</text>
+    <text x="20" y="193.2" fill="#f87171" font-size="12.5" font-weight="700">AI / ML</text>
     <text x="112" y="193.2" fill="#c9d1d9" font-size="12.5">PyTorch, TensorFlow, OpenCV, FastAPI</text>
     <animate attributeName="opacity" from="0" to="1" begin="0.57s" dur="0.4s" fill="freeze"/>
     <animateTransform attributeName="transform" type="translate" from="0 5" to="0 0" begin="0.57s" dur="0.4s" fill="freeze"/>
   </g>
 
   <g opacity="0" transform="translate(0,5)">
-    <text x="20" y="213.8" fill="#ffa657" font-size="12.5" font-weight="700">Languages</text>
+    <text x="20" y="213.8" fill="#f87171" font-size="12.5" font-weight="700">Languages</text>
     <text x="112" y="213.8" fill="#c9d1d9" font-size="12.5">Python, Java, JavaScript, TypeScript, C++</text>
     <animate attributeName="opacity" from="0" to="1" begin="0.63s" dur="0.4s" fill="freeze"/>
     <animateTransform attributeName="transform" type="translate" from="0 5" to="0 0" begin="0.63s" dur="0.4s" fill="freeze"/>
   </g>
 
   <g opacity="0" transform="translate(0,5)">
-    <text x="20" y="234.2" fill="#ffa657" font-size="12.5" font-weight="700">Full Stack</text>
+    <text x="20" y="234.2" fill="#f87171" font-size="12.5" font-weight="700">Full Stack</text>
     <text x="112" y="234.2" fill="#c9d1d9" font-size="12.5">React, Next.js, Node.js, Express, Django</text>
     <animate attributeName="opacity" from="0" to="1" begin="0.69s" dur="0.4s" fill="freeze"/>
     <animateTransform attributeName="transform" type="translate" from="0 5" to="0 0" begin="0.69s" dur="0.4s" fill="freeze"/>
   </g>
 
   <g opacity="0" transform="translate(0,5)">
-    <text x="20" y="254.7" fill="#ffa657" font-size="12.5" font-weight="700">Cloud / DB</text>
+    <text x="20" y="254.7" fill="#f87171" font-size="12.5" font-weight="700">Cloud / DB</text>
     <text x="112" y="254.7" fill="#c9d1d9" font-size="12.5">AWS, Docker, Linux, MongoDB, PostgreSQL</text>
     <animate attributeName="opacity" from="0" to="1" begin="0.75s" dur="0.4s" fill="freeze"/>
     <animateTransform attributeName="transform" type="translate" from="0 5" to="0 0" begin="0.75s" dur="0.4s" fill="freeze"/>
@@ -97,14 +97,14 @@
 
   <!-- Highlights -->
   <g opacity="0" transform="translate(0,5)">
-    <text x="20" y="285.5" fill="#58a6ff" font-size="12.5" font-weight="700">— Highlights</text>
-    <line x1="112" y1="281.5" x2="460" y2="281.5" stroke="#30363d" stroke-opacity="0.8"/>
+    <text x="20" y="285.5" fill="#ef4444" font-size="12.5" font-weight="700">— Highlights</text>
+    <line x1="112" y1="281.5" x2="460" y2="281.5" stroke="#3d262b" stroke-opacity="0.8"/>
     <animate attributeName="opacity" from="0" to="1" begin="0.81s" dur="0.4s" fill="freeze"/>
     <animateTransform attributeName="transform" type="translate" from="0 5" to="0 0" begin="0.81s" dur="0.4s" fill="freeze"/>
   </g>
 
   <g opacity="0" transform="translate(0,5)">
-    <circle cx="23" cy="305" r="2.5" fill="#3fb950"/>
+    <circle cx="23" cy="305" r="2.5" fill="#ef4444"/>
     <text x="34" y="309" fill="#c9d1d9" font-size="12.5">
       2nd Prize Winner @ OITS 2025 (Cyber Sentinel CCTV AI)
     </text>
@@ -113,7 +113,7 @@
   </g>
 
   <g opacity="0" transform="translate(0,5)">
-    <circle cx="23" cy="325.5" r="2.5" fill="#3fb950"/>
+    <circle cx="23" cy="325.5" r="2.5" fill="#ef4444"/>
     <text x="34" y="329.5" fill="#c9d1d9" font-size="12.5">
       Building real world AI systems, not just tutorials
     </text>
