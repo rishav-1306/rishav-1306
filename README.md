@@ -230,41 +230,6 @@ Built with scalable WebSocket infrastructure and modern frontend systems to deli
 </details>
 
 ---
-
-# Experience
-
-## Artificial Intelligence Intern — Tata Steel Ltd.
-`Feb 2026 — May 2026 | Jamshedpur, India`
-
-Worked on AI-enabled industrial defect detection systems using computer vision and deep learning techniques for automated quality inspection workflows.
-
-### Scope of Work
-- Developed AI-powered steel surface defect detection systems
-- Built image preprocessing and inference pipelines
-- Trained CNN-based deep learning architectures
-- Worked on industrial image dataset annotation and optimization
-- Improved detection accuracy and reduced false positives
-
-**Skills:** `Python` `TensorFlow` `PyTorch` `Computer Vision` `CNNs` `AI Systems`
-
----
-
-## MERN Stack Intern — Codtech IT Solutions
-`June 2025 — Aug 2025 | Hyderabad, India`
-
-Worked on scalable web applications, browser extensions, and real-time communication systems using modern full stack technologies.
-
-### Scope of Work
-- Developed real-time collaboration tools
-- Built scalable chat applications
-- Created Chrome productivity extensions
-- Worked on full stack application architecture
-- Implemented responsive frontend systems
-
-**Skills:** `React` `Node.js` `Express` `MongoDB` `Socket.IO`
-
----
-
 # Achievements
 
 <table align="center">
@@ -298,34 +263,6 @@ Worked on scalable web applications, browser extensions, and real-time communica
 <td>Built scalable MERN applications and browser extensions</td>
 </tr>
 </table>
-
----
-
-# Certifications
-
-## AWS
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-Cloud%20Foundations-111827?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
-</p>
-
-## Oracle
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Oracle-Java%20Programming-7C3AED?style=for-the-badge&logo=oracle&logoColor=white"/>
-</p>
-
-## NPTEL
-
-<p align="center">
-  <img src="https://img.shields.io/badge/NPTEL-Programming%20%26%20DSA-312E81?style=for-the-badge"/>
-</p>
-
-## Cisco
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Cisco-Networking%20Fundamentals-4C1D95?style=for-the-badge&logo=cisco&logoColor=white"/>
-</p>
 
 ---
 
