@@ -26,12 +26,7 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=EF4444&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=145&lines=Software+Engineering+%26+AI+Systems;AI+Full+Stack+Developer+%7C+Computer+Vision;Building+scalable%2C+high-performance+intelligent+systems;Turning+ideas+into+production-ready+products"
-      alt="Typing animation"
-    />
-  </a>
+  <img src="./typing-banner.svg" width="850" alt="Software Engineering &amp; AI Systems" />
 </p>
 
 <p align="center">
