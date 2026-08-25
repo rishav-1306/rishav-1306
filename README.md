@@ -276,7 +276,7 @@ Built with scalable WebSocket infrastructure and modern frontend systems to deli
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=rishav-1306&bg_color=0D1117&color=EF4444&line=DC2626&point=FFFFFF&hide_border=true"
+    src="https://raw.githubusercontent.com/rishav-1306/rishav-1306/output/activity-graph.svg"
     alt="Rishav Singh Contribution Graph"
   />
 </p>
